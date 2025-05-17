@@ -441,7 +441,7 @@ body {
     inset-inline-start: 0;
     inline-size: 100%;
     block-size: 100%;
-    background: url('storage/Anime-Wallpapers4.jpg') center/cover;
+    background: url('Anime-Wallpapers4.jpg') center/cover;
     opacity: 0;
     animation: avatar-glitch 8s infinite;
     border-radius: 10px;
@@ -667,11 +667,11 @@ body {
 }
 
 .project-card:nth-child(1) .project-image {
-    background-image: url('storage/Anime-Wallpapers3.jpg');
+    background-image: url('Anime-Wallpapers3.jpg');
 }
 
 .project-card:nth-child(2) .project-image {
-    background-image: url('storage/Anime-Wallpapers4.jpg');
+    background-image: url('Anime-Wallpapers4.jpg');
 }
 
 .project-card:nth-child(3) .project-image {
