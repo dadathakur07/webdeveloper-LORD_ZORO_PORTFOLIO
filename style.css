@@ -431,7 +431,7 @@ body {
     inset-inline-start: 0;
     inline-size: 100%;
     block-size: 100%;
-    background: url("838f43173738389.64951d850e7c4.png") center/cover;
+    background: url("add image .png") center/cover;
     opacity: 0.9;
 }
 
@@ -441,7 +441,7 @@ body {
     inset-inline-start: 0;
     inline-size: 100%;
     block-size: 100%;
-    background: url("Anime-Wallpapers4.jpg") center/cover;
+    background: url("add image .jpg") center/cover;
     opacity: 0;
     animation: avatar-glitch 8s infinite;
     border-radius: 10px;
@@ -667,15 +667,15 @@ body {
 }
 
 .project-card:nth-child(1) .project-image {
-    background-image: url('Anime-Wallpapers3.jpg');
+    background-image: url('add image.jpg');
 }
 
 .project-card:nth-child(2) .project-image {
-    background-image: url('Anime-Wallpapers4.jpg');
+    background-image: url('add image.jpg');
 }
 
 .project-card:nth-child(3) .project-image {
-    background-image: url('c79ce0173738389.Y3JvcCwxMDgwLDg0NCwwLDQy.png');
+    background-image: url('add image .png');
 }
 
 .project-overlay {
